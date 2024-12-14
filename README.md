@@ -1,4 +1,7 @@
-![Header](banner.gif)
+<div align="center">
+  <img src="banner.gif" alt="Header" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
 <h3 align="center">I a passionate Frontend Developer dedicated to crafting beautiful, responsive, and user-friendly web experiences.</h3>
