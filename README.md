@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abiola John Oluwaseyi</h1>
-<h3 align="center">I a passionate Frontend Developer dedicated to crafting beautiful, responsive, and user-friendly web experiences.</h3>
+<h3 align="center">I am a passionate Frontend Developer dedicated to crafting beautiful, responsive, and user-friendly web experiences.</h3>
 <br>
 <div align="center">
   <img src="coding.gif" alt="Header" />
