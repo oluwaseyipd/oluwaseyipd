@@ -17,13 +17,14 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/oluwaseyipd?style=for-the-badge&color=1DA1F2)](https://twitter.com/oluwaseyipd)
   
 </div>
-<div align="center">
-  <img src="coding.gif" alt="Header" />
-</div>
 
 ---
 
 ## 🚀 About Me
+
+<div align="center">
+  <img src="coding.gif" alt="Header" />
+</div>
 
 I'm a passionate **Frontend Developer** dedicated to crafting beautiful, responsive, and user-friendly web experiences. I love turning ideas into interactive digital realities!
 
