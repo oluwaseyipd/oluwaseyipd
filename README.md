@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.gif" alt="Header" />
+</div>
+
 # 👋 Hi, I'm Abiola John Oluwaseyi
 
 <div align="center">
@@ -12,6 +16,9 @@
   [![GitHub followers](https://img.shields.io/github/followers/oluwaseyipd?style=for-the-badge&color=6366F1)](https://github.com/oluwaseyipd)
   [![Twitter Follow](https://img.shields.io/twitter/follow/oluwaseyipd?style=for-the-badge&color=1DA1F2)](https://twitter.com/oluwaseyipd)
   
+</div>
+<div align="center">
+  <img src="coding.gif" alt="Header" />
 </div>
 
 ---
