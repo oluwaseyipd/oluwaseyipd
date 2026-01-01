@@ -31,7 +31,6 @@ I'm a passionate **Frontend Developer** dedicated to crafting beautiful, respons
 - 🌱 Currently mastering **React.js** and modern web technologies
 - 💬 Ask me about **HTML, CSS, JavaScript, and Frontend Development**
 - 📫 Reach me at **oluwaseyiae@gmail.com**
-- ⚡ Fun fact: **I'm a techie who doesn't drink coffee** ☕➡️❌
 
 ---
 
