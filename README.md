@@ -1,125 +1,63 @@
-<div align="center">
-  <img src="banner.gif" alt="Header" />
-</div>
+# Hi there, I'm Abiola John Oluwaseyi👋 
 
-# 👋 Hi, I'm Abiola John Oluwaseyi
+![Role](https://img.shields.io/badge/Role-Frontend%20Engineer-blue?style=for-the-badge)   
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge)   
+![Freelance](https://img.shields.io/badge/Freelance-Available-brightgreen?style=for-the-badge)
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Crafting+Beautiful+Web+Experiences+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
-  
-</div>
+### 🚀 Bridging the gap between Design and Scalable Code
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=oluwaseyipd&label=Profile%20views&color=6366F1&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/oluwaseyipd?style=for-the-badge&color=6366F1)](https://github.com/oluwaseyipd)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/oluwaseyipd?style=for-the-badge&color=1DA1F2)](https://twitter.com/oluwaseyipd)
-  
-</div>
+I am a **Frontend Engineer** specializing in building pixel-perfect, accessible, and high-performance web applications. I help startups and businesses turn complex ideas into seamless user experiences.
+
+- 🌍  Based in [Your City/Country]
+- ✉️  Contact me at: **[your.email@example.com]**
+- 📄  [Download My Resume](https://your-link-here.com)
+- 🌐  [Portfolio Website](https://your-portfolio.com)
 
 ---
 
-## 🚀 About Me
+### 🛠️ My Tech Stack
 
-<div align="center">
-  <img src="coding.gif" alt="Header" />
-</div>
+**Languages & Core:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-I'm a passionate **Frontend Developer** dedicated to crafting beautiful, responsive, and user-friendly web experiences. I love turning ideas into interactive digital realities!
+**Frameworks & Styling:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-- 🌱 Currently mastering **React.js** and modern web technologies
-- 💬 Ask me about **HTML, CSS, JavaScript, and Frontend Development**
-- 📫 Reach me at **oluwaseyiae@gmail.com**
-
----
-
-## 🌟 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=oluwaseyipd&theme=discord&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+**Tools & Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🤝 Connect With Me
+### 🌟 Featured Projects
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abiola-john-oluwaseyi)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oluwaseyipd)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwaseyipd@gmail.com)
-  
-</div>
+| Project | Preview | Description | Tech Stack |
+| :--- | :---: | :--- | :--- |
+| **SaaS Dashboard** | [Link](https://github.com/) | High-performance analytics dashboard with real-time data filtering. | Next.js, Chart.js, Tailwind |
+| **E-Commerce UI** | [Link](https://github.com/) | A mobile-first shopping experience with optimized Core Web Vitals. | React, Redux, Stripe |
+| **Component Lab** | [Link](https://github.com/) | A library of reusable, accessible (A11y) headless UI components. | TypeScript, Storybook |
 
 ---
 
-## 🛠️ Tech Stack
+### 📊 GitHub Statistics
 
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=visual_studio_code" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=visual_studio_code" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🤝 Let's Connect!
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluwaseyipd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaseyipd&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
+I am currently looking for **Full-time Frontend roles** and **contract/freelance gigs**. If you have a project that needs a clean UI or a robust React architecture, let's talk!
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluwaseyipd&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
+- **LinkedIn:** [@yourprofile](https://linkedin.com/in/yourprofile)
+- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [your.email@example.com]
 
----
-
-## 🎯 Current Goals
-
-- 🔥 Building more React projects
-- 🌐 Contributing to open source
-- 📚 Learning Next.js and TypeScript
-- 🎨 Improving UI/UX design skills
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🌟 Thanks for visiting my profile! Let's build something amazing together! 🌟
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer)
-  
-</div>
+*"The best way to predict the future is to code it."*
