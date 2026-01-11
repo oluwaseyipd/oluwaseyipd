@@ -1,17 +1,17 @@
 # Hi there, I'm Abiola John Oluwaseyi👋 
 
-![Role](https://img.shields.io/badge/Role-Frontend%20Engineer-blue?style=for-the-badge)   
-![Status](https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge)   
+![Role](https://img.shields.io/badge/Role-Frontend%20Engineer-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge)
 ![Freelance](https://img.shields.io/badge/Freelance-Available-brightgreen?style=for-the-badge)
 
 ### 🚀 Bridging the gap between Design and Scalable Code
 
 I am a **Frontend Engineer** specializing in building pixel-perfect, accessible, and high-performance web applications. I help startups and businesses turn complex ideas into seamless user experiences.
 
-- 🌍  Based in [Your City/Country]
-- ✉️  Contact me at: **[your.email@example.com]**
+- 🌍  Based in Nigeria
+- ✉️  Contact me at: **[oluwaseyiae@gmail.com]**
 - 📄  [Download My Resume](https://your-link-here.com)
-- 🌐  [Portfolio Website](https://your-portfolio.com)
+- 🌐  [Portfolio Website](https://oluwaseyiae.vercel.app)
 
 ---
 
@@ -46,8 +46,8 @@ I am a **Frontend Engineer** specializing in building pixel-perfect, accessible,
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=visual_studio_code" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=visual_studio_code" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[oluwaseyipd]&show_icons=true&theme=visual_studio_code" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[oluwaseyipd]&layout=compact&theme=visual_studio_code" />
 </p>
 
 ---
@@ -56,8 +56,8 @@ I am a **Frontend Engineer** specializing in building pixel-perfect, accessible,
 
 I am currently looking for **Full-time Frontend roles** and **contract/freelance gigs**. If you have a project that needs a clean UI or a robust React architecture, let's talk!
 
-- **LinkedIn:** [@yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-- **Email:** [your.email@example.com]
+- **LinkedIn:** [@oluwaseyiae](https://linkedin.com/in/oluwaseyiae)
+- **Twitter/X:** [@oluwaseyipd](https://twitter.com/oluwaseyipd)
+- **Email:** [oluwaseyiae@gmail.com]
 
 *"The best way to predict the future is to code it."*
