@@ -37,17 +37,17 @@ I am a **Frontend Engineer** specializing in building pixel-perfect, accessible,
 
 | Project | Preview | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| **SaaS Dashboard** | [Link](https://github.com/) | High-performance analytics dashboard with real-time data filtering. | Next.js, Chart.js, Tailwind |
-| **E-Commerce UI** | [Link](https://github.com/) | A mobile-first shopping experience with optimized Core Web Vitals. | React, Redux, Stripe |
-| **Component Lab** | [Link](https://github.com/) | A library of reusable, accessible (A11y) headless UI components. | TypeScript, Storybook |
+| **SaaS Dashboard** | [Link](https://github.com/oluwaseyipd) | High-performance analytics dashboard with real-time data filtering. | Next.js, Chart.js, Tailwind |
+| **E-Commerce UI** | [Link](https://github.com/oluwaseyipd) | A mobile-first shopping experience with optimized Core Web Vitals. | React, Redux, Stripe |
+| **Component Lab** | [Link](https://github.com/oluwaseyipd) | A library of reusable, accessible (A11y) headless UI components. | TypeScript, Storybook |
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[oluwaseyipd]&show_icons=true&theme=visual_studio_code" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[oluwaseyipd]&layout=compact&theme=visual_studio_code" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oluwaseyipd&show_icons=true&theme=visual_studio_code" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaseyipd&layout=compact&theme=visual_studio_code" />
 </p>
 
 ---
