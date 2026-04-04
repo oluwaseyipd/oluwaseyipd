@@ -43,28 +43,26 @@ Git • Vercel • Docker • Linux • Figma • WCAG Accessibility
 ---
 
 
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluwaseyipd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaseyipd&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluwaseyipd&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluwaseyipd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=oluwaseyipd&theme=discord&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🎯 Current Goals
+### 💼 Let's Work Together
 
-- 🔥 Building more React projects
-- 🌐 Contributing to open source
-- 📚 Learning Next.js and TypeScript
-- 🎨 Improving UI/UX design skills
+**Actively open to:**
+- Remote Frontend / Full-Stack roles (Mid-level)
+- Startup engineering positions
+- Freelance / Contract product builds
+- AI-powered web app projects
+
+**HR / Recruiters / Clients:**  
+Email me at **oluwaseyipd@gmail.com** or DM on [X @oluwaseyipd](https://twitter.com/oluwaseyipd)  
+[LinkedIn](https://linkedin.com/in/abiola-john-oluwaseyi)
 
 ---
+
+*Made with ❤️ in Nigeria | Last updated April 2026*  
+**"If it doesn't ship, it doesn't count."**
