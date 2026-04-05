@@ -9,7 +9,6 @@
 ### 👋 Hi, I'm Abiola John Oluwaseyi (oluwaseyipd)
 
 **🎨 Creative Frontend Developer | Building Performant & Accessible Web Interfaces**   
-**🇳🇬 Based in Nigeria | Open to remote/full-time roles & client projects in 2026**
 
 I turn ideas into **production-ready**, beautiful, and user-first web applications. With a strong focus on **React/Next.js ecosystems**, modern TypeScript, and AI integration, I ship complete full-stack products that solve real problems — from task management tools to AI note-taking apps and community event platforms.
 
