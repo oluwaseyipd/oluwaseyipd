@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Creative+Frontend+Developer+%F0%9F%9A%80;Building+Performant+%26+Accessible+Web+Interfaces;Founder+of+Thrive+Link+%7C+Creator+of+PrepMate;Shipping+AI-Powered+Full-Stack+Products+in+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Creative+Frontend+Developer+%F0%9F%9A%80;Building+Performant+%26+Accessible+Web+Interfaces;Building+Acta;Shipping+AI-Powered+Full-Stack+Products+in+2026)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oluwaseyipd&label=Profile%20views&color=6366F1&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/oluwaseyipd?style=for-the-badge&color=6366F1)](https://github.com/oluwaseyipd)
