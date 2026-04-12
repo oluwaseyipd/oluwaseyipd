@@ -42,6 +42,17 @@ Git • Vercel • Docker • Linux • Figma • WCAG Accessibility
 
 ---
 
+### 🔥 Featured Projects (All Live & Shipped)
+
+| Project | Description | Tech | Live Demo | Impact |
+|---------|-------------|------|-----------|--------|
+| **[Acta](https://github.com/oluwaseyipd/acta-frontend)** | Modern task management app with themes, animations, optimistic updates & full Django backend | React 19 + TS + Tailwind + shadcn/ui + TanStack Query | [Live Demo](https://acta-psi.vercel.app) | Production-ready UI loved for accessibility & speed |
+| **[Ogbomoso Tech Ignite (OTEI 2026)](https://github.com/oluwaseyipd/ogbomosotei)** | Official event website + admin dashboard with live countdown, charts & CSV export | React + Vite + Supabase + Tailwind | [Live Site](https://ogbomosotei.com) | Community impact — built & shipped in weeks |
+| **[Thrive Link](https://github.com/oluwaseyipd/thrive_link)** | My startup brand & product landing site | Next.js + Tailwind | [Live Site](https://thrivelinks.vercel.app) | Founder proof — real business asset |
+
+**Want to see more?** Check all [repositories →](https://github.com/oluwaseyipd?tab=repositories)
+
+---
 
 ### 📊 GitHub Stats
 
