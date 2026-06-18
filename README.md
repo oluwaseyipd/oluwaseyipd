@@ -48,7 +48,11 @@ Git • Vercel • Docker • Linux • Figma • WCAG Accessibility
 |---------|-------------|------|-----------|--------|
 | **[Acta](https://github.com/oluwaseyipd/acta-frontend)** | Modern task management app with themes, animations, optimistic updates & full Django backend | React 19 + TS + Tailwind + shadcn/ui + TanStack Query | [Live Demo](https://acta-psi.vercel.app) | Production-ready UI loved for accessibility & speed |
 | **[Ogbomoso Tech Ignite (OTEI 2026)](https://github.com/oluwaseyipd/ogbomosotei)** | Official event website + admin dashboard with live countdown, charts & CSV export | React + Vite + Supabase + Tailwind | [Live Site](https://ogbomosotei.com) | Community impact — built & shipped in weeks |
-| **[Acadexis](https://github.com/oluwaseyipd/Acadexis_frontend)** | A personalized Learning Platform powered by a lecturer-curated Large Language Model for interactive student tutoring | Next.js + TS + Tailwind + Zustand + Zod +Axios + Framer Motion | [Live Site](https://studywithacadexis.vercel.app/) | Bridges the gap between official course materials, lecturers, students, and AI-grounded learning tools  |
+| **[Acadexis](https://github.com/oluwaseyipd/Acadexis_frontend)** | A personalized Learning Platform powered by a lecturer-curated Large Language Model for interactive student tutoring | Next.js + TS + Tailwind + Zustand + Zod + Axios + Framer Motion | [Live Site](https://studywithacadexis.vercel.app/) | Bridges the gap between official course materials, lecturers, students, and AI-grounded learning tools  |
+| **[QuillInsight](https://github.com/oluwaseyipd/quillinsight)** | AI-powered notes app built with Next.js, React, TypeScript, and Supabase. Take notes, organize them, and let AI generate summaries and insights. | Next.js + TS + Tailwind + Zustand + Zod + Axios + Framer Motion | [Live Site](https://quillinsight.vercel.app/) | AI-powered note-taking web application designed to make work efficient |
+| **[John Abiola](https://github.com/oluwaseyipd/oluwaseyiae)** | Personal portfolio built with Next.js 15, TypeScript, Tailwind CSS v4 & Framer Motion. Features dark/light mode, animated sections, and project showcases. | Next.js + TS + Tailwind + Framer Motion | [Live Site](https://oluwaseyiae.vercel.app/) | A modern, production-ready portfolio website |
+
+
 
 **Want to see more?** Check all [repositories →](https://github.com/oluwaseyipd?tab=repositories)
 
