@@ -48,7 +48,7 @@ Git • Vercel • Docker • Linux • Figma • WCAG Accessibility
 |---------|-------------|------|-----------|--------|
 | **[Acta](https://github.com/oluwaseyipd/acta-frontend)** | Modern task management app with themes, animations, optimistic updates & full Django backend | React 19 + TS + Tailwind + shadcn/ui + TanStack Query | [Live Demo](https://acta-psi.vercel.app) | Production-ready UI loved for accessibility & speed |
 | **[Ogbomoso Tech Ignite (OTEI 2026)](https://github.com/oluwaseyipd/ogbomosotei)** | Official event website + admin dashboard with live countdown, charts & CSV export | React + Vite + Supabase + Tailwind | [Live Site](https://ogbomosotei.com) | Community impact — built & shipped in weeks |
-| **[Thrive Link](https://github.com/oluwaseyipd/thrive_link)** | My startup brand & product landing site | Next.js + Tailwind | [Live Site](https://thrivelinks.vercel.app) | Founder proof — real business asset |
+| **[Acadexis](https://github.com/oluwaseyipd/Acadexis_frontend)** | A personalized Learning Platform powered by a lecturer-curated Large Language Model for interactive student tutoring | Next.js + TS + Tailwind + Zustand + Zod +Axios + Framer Motion | [Live Site](https://studywithacadexis.vercel.app/) | Bridges the gap between official course materials, lecturers, students, and AI-grounded learning tools  |
 
 **Want to see more?** Check all [repositories →](https://github.com/oluwaseyipd?tab=repositories)
 
