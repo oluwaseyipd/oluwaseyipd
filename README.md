@@ -74,7 +74,7 @@ Git • Vercel • Docker • Linux • Figma • WCAG Accessibility
 - AI-powered web app projects
 
 **HR / Recruiters / Clients:**  
-Email me at **oluwaseyipd@gmail.com** or DM on [X @oluwaseyipd](https://twitter.com/oluwaseyipd)  
+Email me at **oluwaseyipd@gmail.com** or DM on [X @standingbishop](https://x.com/standingbishop)  
 [LinkedIn](https://linkedin.com/in/abiola-john-oluwaseyi)
 
 ---
