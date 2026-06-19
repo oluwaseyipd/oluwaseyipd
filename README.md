@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oluwaseyipd&label=Profile%20views&color=6366F1&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/oluwaseyipd?style=for-the-badge&color=6366F1)](https://github.com/oluwaseyipd)
-[![X (Twitter) Follow](https://img.shields.io/x/follow/oluwaseyipd?style=for-the-badge&color=1DA1F2)](https://x.com/oluwaseyipd)
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/oluwaseyipd?style=for-the-badge&color=1DA1F2)](https://x.com/oluwaseyipd)
 
 ---
 
