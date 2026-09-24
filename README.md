@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oluwaseyipd&label=Profile%20views&color=6366F1&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/oluwaseyipd?style=for-the-badge&color=6366F1)](https://github.com/oluwaseyipd)
-[![X (Twitter) Follow](https://img.shields.io/twitter/follow/oluwaseyipd?style=for-the-badge&color=1DA1F2)](https://x.com/oluwaseyipd)
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/devoluwaseyi?style=for-the-badge&color=1DA1F2)](https://x.com/devoluwaseyi)
 
 ---
 
-### 👋 Hi, I'm Abiola John Oluwaseyi (oluwaseyipd)
+### 👋 Hi, I'm Abiola John Oluwaseyi 
 
 **🎨 Creative Frontend Developer | Building Performant & Accessible Web Interfaces**   
 
@@ -74,8 +74,8 @@ Git • Vercel • Docker • Linux • Figma • WCAG Accessibility
 - AI-powered web app projects
 
 **HR / Recruiters / Clients:**  
-Email me at **oluwaseyipd@gmail.com** or DM on [X @oluwaseyipd](https://x.com/oluwaseyipd)  
-[LinkedIn](https://linkedin.com/in/abiola-john-oluwaseyi)
+Email me at **oluwaseyiae@gmail.com** or DM on [X @devoluwaseyi](https://x.com/devoluwaseyi)  
+[LinkedIn](https://linkedin.com/in/oluwaseyiae)
 
 ---
 
